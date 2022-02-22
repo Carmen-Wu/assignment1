@@ -1,15 +1,16 @@
 body {
     font-family: Courier, monospace;
-    background-color: rgb(236, 174, 168);
+    background-color: rgb(250, 207, 203);
     text-align: center;
   }
 
   h1 {
-    color: rgb(114, 111, 114);
+    color: rgb(0, 0, 0);
+    font-size: 2.5em;
   }
 
   h3 {
-    color: rgb(255, 255, 255);
+    color: rgb(104, 100, 104);
   }
   div a {
     text-decoration: none;
