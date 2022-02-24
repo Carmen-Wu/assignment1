@@ -2,6 +2,7 @@
 
 Group member: 
 
-Carmen Wu - Carmen-Wu 
+Carmen Wu 
+Dian Chen 
 
 [Link to website]https://carmen-wu.github.io/team-app-assignment1/)
