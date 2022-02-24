@@ -4,4 +4,4 @@ Group member:
 
 Carmen Wu - Carmen-Wu 
 
-[Link to website](https://carmen-wu.github.io/assignment1/)
+[Link to website]https://carmen-wu.github.io/team-app-assignment1/)
