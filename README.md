@@ -2,7 +2,7 @@
 
 Group member: 
 
-Carmen Wu 
-Dian Chen 
+Carmen Wu: Carmen-Wu
+Dian Chen: orzdian
 
 [Link to website]https://carmen-wu.github.io/team-app-assignment1/)
